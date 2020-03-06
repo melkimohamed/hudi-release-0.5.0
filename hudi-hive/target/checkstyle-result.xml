@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.8">
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/HiveSyncConfig.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/HiveSyncTool.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/HoodieHiveClient.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/HoodieHiveSyncException.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/MultiPartKeysValueExtractor.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/NonPartitionedExtractor.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/PartitionValueExtractor.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/SchemaDifference.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/SlashEncodedDayPartitionValueExtractor.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/util/ColumnNameXLator.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/util/SchemaUtil.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/test/java/org/apache/hudi/hive/HiveSyncToolTest.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/test/java/org/apache/hudi/hive/TestUtil.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/test/java/org/apache/hudi/hive/util/HiveTestService.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/test/resources/log4j-surefire-quiet.properties">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/test/resources/log4j-surefire.properties">
+</file>
+</checkstyle>

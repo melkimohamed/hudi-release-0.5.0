@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.8">
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/BaseAvroPayload.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/ComplexKeyGenerator.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/DataSourceUtils.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/EmptyHoodieRecordPayload.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/HoodieDataSourceHelpers.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/KeyGenerator.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/NonpartitionedKeyGenerator.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/OverwriteWithLatestAvroPayload.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/QuickstartUtils.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/SimpleKeyGenerator.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/test/java/DataSourceTestUtils.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/test/java/HoodieJavaApp.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/test/java/HoodieJavaStreamingApp.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/test/resources/log4j-surefire-quiet.properties">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/test/resources/log4j-surefire.properties">
+</file>
+</checkstyle>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.8">
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/AbstractHoodieClient.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/CompactionAdminClient.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/HoodieReadClient.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/HoodieWriteClient.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/WriteStatus.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/client/embedded/EmbeddedTimelineService.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/client/utils/ClientUtils.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/config/HoodieCompactionConfig.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/config/HoodieHBaseIndexConfig.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/config/HoodieIndexConfig.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/config/HoodieMemoryConfig.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/config/HoodieMetricsConfig.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/config/HoodieStorageConfig.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/config/HoodieWriteConfig.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/exception/HoodieAppendException.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/exception/HoodieCommitException.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/exception/HoodieCompactionException.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/exception/HoodieDependentSystemUnavailableException.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/exception/HoodieInsertException.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/exception/HoodieRollbackException.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/exception/HoodieSavepointException.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/exception/HoodieUpsertException.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/func/BulkInsertMapFunction.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/func/CopyOnWriteLazyInsertIterable.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/func/LazyIterableIterator.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/func/MergeOnReadLazyInsertIterable.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/func/OperationResult.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/func/ParquetReaderIterator.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/func/SparkBoundedInMemoryExecutor.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/index/HoodieIndex.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/index/InMemoryHashIndex.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/index/bloom/BloomIndexFileInfo.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/index/bloom/BucketizedBloomCheckPartitioner.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/index/bloom/HoodieBloomIndex.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/index/bloom/HoodieBloomIndexCheckFunction.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/index/bloom/HoodieGlobalBloomIndex.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/index/bloom/IndexFileFilter.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/index/bloom/IntervalTreeBasedGlobalIndexFileFilter.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/index/bloom/IntervalTreeBasedIndexFileFilter.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/index/bloom/KeyLookupResult.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/index/bloom/KeyRangeLookupTree.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/index/bloom/KeyRangeNode.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/index/bloom/ListBasedGlobalIndexFileFilter.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/index/bloom/ListBasedIndexFileFilter.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/index/hbase/DefaultHBaseQPSResourceAllocator.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/index/hbase/HBaseIndex.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/index/hbase/HBaseIndexQPSResourceAllocator.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/HoodieAppendHandle.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/HoodieCleanHelper.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/HoodieCommitArchiveLog.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/HoodieCreateHandle.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/HoodieIOHandle.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/HoodieKeyLookupHandle.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/HoodieMergeHandle.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/HoodieRangeInfoHandle.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/HoodieReadHandle.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/HoodieWriteHandle.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/compact/HoodieCompactor.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/compact/HoodieRealtimeTableCompactor.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/compact/strategy/BoundedIOCompactionStrategy.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/compact/strategy/BoundedPartitionAwareCompactionStrategy.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/compact/strategy/CompactionStrategy.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/compact/strategy/DayBasedCompactionStrategy.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/compact/strategy/LogFileSizeBasedCompactionStrategy.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/compact/strategy/UnBoundedCompactionStrategy.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/compact/strategy/UnBoundedPartitionAwareCompactionStrategy.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/storage/HoodieParquetConfig.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/storage/HoodieParquetWriter.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/storage/HoodieStorageWriter.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/io/storage/HoodieStorageWriterFactory.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/metrics/HoodieMetrics.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/metrics/InMemoryMetricsReporter.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/metrics/Metrics.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/metrics/MetricsGraphiteReporter.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/metrics/MetricsReporter.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/metrics/MetricsReporterFactory.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/metrics/MetricsReporterType.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/table/HoodieCopyOnWriteTable.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/table/HoodieMergeOnReadTable.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/table/HoodieTable.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/table/UserDefinedBulkInsertPartitioner.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/table/WorkloadProfile.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/java/org/apache/hudi/table/WorkloadStat.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/HoodieClientExample.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/HoodieClientTestHarness.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/TestAsyncCompaction.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/TestCleaner.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/TestClientRollback.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/TestCompactionAdminClient.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/TestConsistencyGuard.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/TestHoodieClientBase.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/TestHoodieClientOnCopyOnWriteStorage.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/TestHoodieReadClient.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/TestMultiFS.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/TestWriteStatus.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/common/HoodieClientTestUtils.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/common/HoodieMergeOnReadTestUtils.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/common/HoodieTestDataGenerator.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/common/TestRawTripPayload.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/config/HoodieWriteConfigTest.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/func/TestBoundedInMemoryExecutor.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/func/TestBoundedInMemoryQueue.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/func/TestParquetReaderIterator.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/func/TestUpdateMapFunction.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/index/TestHBaseQPSResourceAllocator.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/index/TestHbaseIndex.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/index/TestHoodieIndex.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/index/bloom/TestBucketizedBloomCheckPartitioner.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/index/bloom/TestHoodieBloomIndex.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/index/bloom/TestHoodieGlobalBloomIndex.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/index/bloom/TestKeyRangeLookupTree.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/io/TestHoodieCommitArchiveLog.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/io/TestHoodieCompactor.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/io/TestHoodieMergeHandle.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/io/storage/TestHoodieStorageWriterFactory.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/io/strategy/TestHoodieCompactionStrategy.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/io/strategy/TestHoodieDataFile.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/io/strategy/TestHoodieLogFile.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/metrics/TestHoodieMetrics.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/table/TestCopyOnWriteTable.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/table/TestHoodieRecordSizing.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/java/org/apache/hudi/table/TestMergeOnReadTable.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/main/resources/log4j.properties">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/resources/log4j-surefire-quiet.properties">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-client/src/test/resources/log4j-surefire.properties">
+</file>
+</checkstyle>

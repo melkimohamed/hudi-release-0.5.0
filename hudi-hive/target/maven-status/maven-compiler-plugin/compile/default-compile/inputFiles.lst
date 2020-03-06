@@ -1,0 +1,11 @@
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/SchemaDifference.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/HoodieHiveSyncException.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/util/ColumnNameXLator.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/HiveSyncConfig.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/SlashEncodedDayPartitionValueExtractor.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/util/SchemaUtil.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/HoodieHiveClient.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/NonPartitionedExtractor.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/HiveSyncTool.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/MultiPartKeysValueExtractor.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/PartitionValueExtractor.java

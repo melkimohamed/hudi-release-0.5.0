@@ -1,0 +1,12 @@
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-utilities/src/test/java/org/apache/hudi/utilities/sources/AbstractBaseTestSource.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-utilities/src/test/java/org/apache/hudi/utilities/TestHoodieSnapshotCopier.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-utilities/src/test/java/org/apache/hudi/utilities/TestHDFSParquetImporter.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-utilities/src/test/java/org/apache/hudi/utilities/TestFlatteningTransformer.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-utilities/src/test/java/org/apache/hudi/utilities/sources/config/TestSourceConfig.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-utilities/src/test/java/org/apache/hudi/utilities/SchedulerConfGeneratorTest.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-utilities/src/test/java/org/apache/hudi/utilities/sources/DistributedTestDataSource.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-utilities/src/test/java/org/apache/hudi/utilities/sources/TestDFSSource.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-utilities/src/test/java/org/apache/hudi/utilities/TestHoodieDeltaStreamer.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-utilities/src/test/java/org/apache/hudi/utilities/UtilitiesTestBase.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-utilities/src/test/java/org/apache/hudi/utilities/sources/TestDataSource.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-utilities/src/test/java/org/apache/hudi/utilities/sources/TestKafkaSource.java

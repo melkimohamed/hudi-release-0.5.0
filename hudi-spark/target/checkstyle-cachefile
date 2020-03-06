@@ -1,0 +1,18 @@
+#Fri Mar 06 10:50:45 CET 2020
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/EmptyHoodieRecordPayload.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/HoodieDataSourceHelpers.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/SimpleKeyGenerator.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/BaseAvroPayload.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/KeyGenerator.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/test/resources/log4j-surefire.properties=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/test/java/HoodieJavaApp.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/test/java/HoodieJavaStreamingApp.java=1571955921000
+module-resource*?\:/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/target/checkstyle-suppressions.xml=8D8F5336F98054DC2B1EAC538CCEE719E7161D3C
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/DataSourceUtils.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/ComplexKeyGenerator.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/test/java/DataSourceTestUtils.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/OverwriteWithLatestAvroPayload.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/QuickstartUtils.java=1571955921000
+configuration*?=4BC3E63DCB5BAF6FAEB4A828EBDA47B88B6482B6
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/test/resources/log4j-surefire-quiet.properties=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/NonpartitionedKeyGenerator.java=1571955921000

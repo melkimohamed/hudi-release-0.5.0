@@ -1,0 +1,19 @@
+#Fri Mar 06 10:50:00 CET 2020
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/SchemaDifference.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/util/ColumnNameXLator.java=1571955921000
+module-resource*?\:/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/target/checkstyle-suppressions.xml=8D8F5336F98054DC2B1EAC538CCEE719E7161D3C
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/SlashEncodedDayPartitionValueExtractor.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/test/java/org/apache/hudi/hive/HiveSyncToolTest.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/HiveSyncTool.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/test/resources/log4j-surefire-quiet.properties=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/HiveSyncConfig.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/test/java/org/apache/hudi/hive/TestUtil.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/test/resources/log4j-surefire.properties=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/NonPartitionedExtractor.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/MultiPartKeysValueExtractor.java=1571955921000
+configuration*?=0D029D45E3E8A3424A67548C01B40147C19AA3F8
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/HoodieHiveSyncException.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/HoodieHiveClient.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/util/SchemaUtil.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/test/java/org/apache/hudi/hive/util/HiveTestService.java=1571955921000
+/home/mohamedmelki/T\u00E9l\u00E9chargements/hudi05/incubator-hudi-release-0.5.0/hudi-hive/src/main/java/org/apache/hudi/hive/PartitionValueExtractor.java=1571955921000

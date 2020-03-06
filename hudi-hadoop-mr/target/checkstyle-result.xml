@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.8">
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/com/uber/hoodie/hadoop/HoodieInputFormat.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/com/uber/hoodie/hadoop/realtime/HoodieRealtimeInputFormat.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/HoodieHiveUtil.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/HoodieParquetInputFormat.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/HoodieROTablePathFilter.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/RecordReaderValueIterator.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/SafeParquetRecordReaderWrapper.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/UseFileSplitsFromInputFormat.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/AbstractRealtimeRecordReader.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/HoodieParquetRealtimeInputFormat.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/HoodieParquetSerde.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/HoodieRealtimeFileSplit.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/HoodieRealtimeRecordReader.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/RealtimeCompactedRecordReader.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/RealtimeUnmergedRecordReader.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/test/java/org/apache/hudi/hadoop/AnnotationTest.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/test/java/org/apache/hudi/hadoop/HoodieInputFormatTest.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/test/java/org/apache/hudi/hadoop/InputFormatTestUtil.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/test/java/org/apache/hudi/hadoop/TestHoodieROTablePathFilter.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/test/java/org/apache/hudi/hadoop/TestRecordReaderValueIterator.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/test/java/org/apache/hudi/hadoop/realtime/HoodieRealtimeRecordReaderTest.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/test/resources/log4j-surefire-quiet.properties">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/test/resources/log4j-surefire.properties">
+</file>
+</checkstyle>

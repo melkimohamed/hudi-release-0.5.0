@@ -1,0 +1,15 @@
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/HoodieHiveUtil.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/RealtimeCompactedRecordReader.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/HoodieROTablePathFilter.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/SafeParquetRecordReaderWrapper.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/HoodieParquetSerde.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/HoodieParquetInputFormat.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/HoodieParquetRealtimeInputFormat.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/com/uber/hoodie/hadoop/HoodieInputFormat.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/RecordReaderValueIterator.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/HoodieRealtimeFileSplit.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/UseFileSplitsFromInputFormat.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/RealtimeUnmergedRecordReader.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/HoodieRealtimeRecordReader.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/com/uber/hoodie/hadoop/realtime/HoodieRealtimeInputFormat.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-hadoop-mr/src/main/java/org/apache/hudi/hadoop/realtime/AbstractRealtimeRecordReader.java

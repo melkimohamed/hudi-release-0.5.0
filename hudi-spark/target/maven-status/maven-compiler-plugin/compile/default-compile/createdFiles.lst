@@ -1,0 +1,11 @@
+org/apache/hudi/ComplexKeyGenerator.class
+org/apache/hudi/QuickstartUtils$DataGenerator.class
+org/apache/hudi/HoodieDataSourceHelpers.class
+org/apache/hudi/KeyGenerator.class
+org/apache/hudi/SimpleKeyGenerator.class
+org/apache/hudi/QuickstartUtils.class
+org/apache/hudi/EmptyHoodieRecordPayload.class
+org/apache/hudi/OverwriteWithLatestAvroPayload.class
+org/apache/hudi/NonpartitionedKeyGenerator.class
+org/apache/hudi/DataSourceUtils.class
+org/apache/hudi/BaseAvroPayload.class

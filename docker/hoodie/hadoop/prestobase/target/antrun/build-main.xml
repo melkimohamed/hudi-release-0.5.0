@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy file="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/docker/hoodie/hadoop/prestobase/../../../../packaging/hudi-presto-bundle/target/hudi-presto-bundle-0.5.0-incubating.jar" tofile="target/hudi-presto-bundle.jar"/>
+</target>
+</project>

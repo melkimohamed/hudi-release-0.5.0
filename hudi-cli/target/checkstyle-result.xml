@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.8">
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/HoodieCLI.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/HoodieHistoryFileNameProvider.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/HoodiePrintHelper.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/HoodiePrompt.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/HoodieSplashScreen.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/Main.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/Table.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/TableHeader.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/commands/ArchivedCommitsCommand.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/commands/CleansCommand.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/commands/CommitsCommand.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/commands/CompactionCommand.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/commands/DatasetsCommand.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/commands/FileSystemViewCommand.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/commands/HDFSParquetImportCommand.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/commands/HoodieLogFileCommand.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/commands/HoodieSyncCommand.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/commands/RepairsCommand.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/commands/RollbacksCommand.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/commands/SavepointsCommand.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/commands/SparkMain.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/commands/StatsCommand.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/commands/UtilsCommand.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/utils/CommitUtil.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/utils/HiveUtil.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/utils/InputStreamConsumer.java">
+</file>
+<file name="/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-cli/src/main/java/org/apache/hudi/cli/utils/SparkUtil.java">
+</file>
+</checkstyle>

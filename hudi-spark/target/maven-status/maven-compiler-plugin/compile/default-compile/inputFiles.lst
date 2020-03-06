@@ -1,0 +1,10 @@
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/BaseAvroPayload.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/OverwriteWithLatestAvroPayload.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/HoodieDataSourceHelpers.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/NonpartitionedKeyGenerator.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/ComplexKeyGenerator.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/SimpleKeyGenerator.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/QuickstartUtils.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/EmptyHoodieRecordPayload.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/DataSourceUtils.java
+/home/mohamedmelki/Téléchargements/hudi05/incubator-hudi-release-0.5.0/hudi-spark/src/main/java/org/apache/hudi/KeyGenerator.java
